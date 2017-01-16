@@ -1,0 +1,1 @@
+window.appConfig = {"viewport":{"width":800,"height":600},"platforms":{"browser":{"viewport":{"width":640,"height":480}},"android":{"viewport":{"width":320,"height":200}}}};
