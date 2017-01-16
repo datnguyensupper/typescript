@@ -21,5 +21,5 @@
 }
 
 window.onload = () => {
-    var game = new SimpleGame();
+    var game = new Castlevania.Game();
 };
